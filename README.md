@@ -3,5 +3,5 @@
 <h1><b>DevSecOps Engineer</b></h1>
 <p>
     I love Ferris
-    <img src="https://github.com/ashrv12/ashrv12/blob/main/ferris.png?raw=true" />
+    <img src="https://github.com/ashrv12/ashrv12/blob/main/ferris.png?raw=true" width="30px" />
 </p>
