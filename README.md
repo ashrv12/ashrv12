@@ -4,4 +4,4 @@
 
 > [!IMPORTANT]
 > <img src="https://github.com/ashrv12/ashrv12/blob/main/ferris.png?raw=true" width="25px" />
-> I love Ferris
+> **I love _Ferris_**
