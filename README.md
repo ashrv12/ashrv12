@@ -1,7 +1,7 @@
 <img src="https://github.com/ashrv12/ashrv12/blob/main/githubbanner.gif?raw=true" width="100%" />
 
 <h1><b>DevSecOps Engineer</b></h1>
-<p style="display: flex; align-items: center">
+<p text="center" >
     I love Ferris
     <img src="https://github.com/ashrv12/ashrv12/blob/main/ferris.png?raw=true" width="30px" />
 </p>
